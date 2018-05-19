@@ -1,7 +1,7 @@
 Tên: Nguyễn Doãn Tùng
-Đề số 8
-Câu 1:  FileExplore
-Câu 2: CHức năng xóa File.
+- Đề số 8
+- Câu 1:  FileExplore
+- Câu 2: CHức năng xóa File.
 - video hương dẫn: https://www.youtube.com/watch?v=kBdEzaOAPcg&feature=youtu.be
 
 hướng dẫn sử dụng: 
