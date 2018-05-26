@@ -6,6 +6,7 @@ Tên: Nguyễn Doãn Tùng
 
 hướng dẫn sử dụng: 
 chức năng delete:
+- cho cac dòng lệnh vào eclipse để chạy.
 - chọn file cần xóa trên table
 - nhấp chuột vào nút delete
 - nhấn "Ok" để xóa
