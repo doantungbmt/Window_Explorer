@@ -9,7 +9,7 @@ Hướng dẫn chạy code:
 - mở cmd
 - Dùng lệnh cd chuyển đến thư mục chứa source code:
 ví dụ: cd D:\JAVA\java_done\GiuaKy
-- Biên dịch lệnh javac
+- Biên dịch lệnh javac:
   . javac KTGiuaKy\FileMngt.java
 - chạy bằng lệnh java:
   . java KTGiuaKy.FileMngt
