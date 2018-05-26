@@ -4,6 +4,17 @@ Tên: Nguyễn Doãn Tùng
 - Câu 2: CHức năng xóa File.
 - video hương dẫn: https://www.youtube.com/watch?v=kBdEzaOAPcg&feature=youtu.be
 
+Hướng dẫn chạy code:
+- Tải project GiuaKy về máy
+- mở cmd
+- Dùng lệnh cd chuyển đến thư mục chứa source code:
+ví dụ: cd D:\JAVA\java_done\GiuaKy
+- Biên dịch lệnh javac
+  . javac KTGiuaKy\FileMngt.java
+- chạy bằng lệnh java:
+  . java KTGiuaKy.FileMngt
+
+
 hướng dẫn sử dụng: 
 chức năng delete:
 - cho cac dòng lệnh vào eclipse để chạy.
